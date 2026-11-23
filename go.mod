@@ -1,4 +1,4 @@
-module github.com/VINDA-98/api-test
+module github.com/VINDA-98/gin-employee-directory-mock
 
 go 1.19
 
