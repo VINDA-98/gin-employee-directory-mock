@@ -2,7 +2,7 @@
 
 [简体中文](README.zh-CN.md)
 
-A small Gin service that supplies sample employee and department data for testing directory integrations. Its responses include employee-to-department mappings and parent IDs for nested departments, so a client can develop and test its import logic against local data.
+A local Gin service for testing employee-directory imports. Its sample responses map employees to departments and use parent IDs to represent a department tree.
 
 ## Endpoints
 
